@@ -13,3 +13,8 @@ This implementation is for DARN block ....Multiscale SVD profile generation done
 The SVD-DARN framework operates on MSVDP (Multi-Scale Vector Dual-Polarimetric Profiles) features. 
 The MSVDP profile generation was carried out using MATLAB prior to the deep learning stage. 
 The generated feature representations were then imported into the Python environment for normalization, patch extraction, and model training.
+#### MSVDP data
+Due to GitHub file size limitations, the dataset is not included in this repository.
+The MSVDP dataset used in this study can be downloaded from the following link:
+This link contains three feature set which has been used in the study for flevoland dataset only.....Other two dataset will be available upon request.
+Google Drive: https://drive.google.com/drive/folders/1AhDV0TijQTWnmLwkOf1wAXIo7bVjpgkr?usp=sharing
